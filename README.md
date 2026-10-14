@@ -55,8 +55,7 @@ Led by **CARTO – Alex Tena & Juan Ignacio**
 #### Room C – The Hudson  
 **Beyond the Pixel: Vectorizing Terrain for High-Performance Telco Analytics with Databricks and CARTO**  
 Led by **Databricks – Michael Johns & CARTO – Simon Wrigley**  
-<!-- - [Slides](PASTE-LINK-HERE) -->
-<!-- - [Worksheet](PASTE-LINK-HERE) -->
+- [Slides](https://drive.google.com/file/d/1VzFvTM5n4hGxpcZWqQYuiPH_7NpaFsCD/view?usp=sharing)
 
 ---
 
