@@ -49,8 +49,8 @@ Led by **Snowflake – Caleb Alexander & CARTO – Ryan Miller**
 #### Room B – The Astoria  
 **Vibecoding Custom Spatial Apps with CARTO for Agents**  
 Led by **CARTO – Alex Tena & Juan Ignacio**  
-<!-- - [Slides](PASTE-LINK-HERE) -->
-<!-- - [Worksheet](PASTE-LINK-HERE) -->
+- [Slides](https://docs.google.com/presentation/d/19WJM8ZzMkYyo8gzHWsNH1bhycF2m_sZCzvPdW5B6PCU/edit?usp=sharing)
+- [Workshop guide](https://docs.google.com/document/d/1-z4D5N57l2MdImhGGueSWyyxGS4IWa13zMN4Snovr2Y/edit?usp=sharing)
 
 #### Room C – The Hudson  
 **Beyond the Pixel: Vectorizing Terrain for High-Performance Telco Analytics with Databricks and CARTO**  
