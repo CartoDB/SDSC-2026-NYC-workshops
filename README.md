@@ -103,7 +103,7 @@ Led by **Applied Geographic Solutions – Gary Menger & CARTO – Lucía García
 #### Room B – The Astoria  
 **Retail Launch Intelligence: Places Insights, Population Embeddings, and BigQuery ML in CARTO**  
 Led by **Google Maps Platform – Valeriya Shin & CARTO – Ryan Miller**  
-[Slides](https://docs.google.com/presentation/d/1CtB6sKW_Vn2F9dIn4W0kGvcHspQJepQPhQor0t8YFyQ/edit?usp=sharing)
+- [Slides](https://docs.google.com/presentation/d/1CtB6sKW_Vn2F9dIn4W0kGvcHspQJepQPhQor0t8YFyQ/edit?usp=sharing)
 - [Workshop guide](https://storage.googleapis.com/rmiller-se-sdsc-2026-public/google-retail/index.html)
 
 #### Room C – The Hudson  
