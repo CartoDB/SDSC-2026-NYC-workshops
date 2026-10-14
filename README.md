@@ -97,8 +97,8 @@ Led by **Bonny P. McClain**
 #### Room A – The Bryant  
 **From Geo-Embeddings to Spatial Applications: Working with PlacePulse in CARTO**  
 Led by **Applied Geographic Solutions – Gary Menger & CARTO – Lucía García-Duarte**  
-<!-- - [Slides](PASTE-LINK-HERE) -->
-<!-- - [Worksheet](PASTE-LINK-HERE) -->
+<!-- - [Slides](https://github.com/CartoDB/research-public/blob/master/sdsc26-ny-workshop/materials/deck.pdf) -->
+<!-- - [Worksheet](https://github.com/CartoDB/research-public/tree/master/sdsc26-ny-workshop) -->
 
 #### Room B – The Astoria  
 **Retail Launch Intelligence: Places Insights, Population Embeddings, and BigQuery ML in CARTO**  
