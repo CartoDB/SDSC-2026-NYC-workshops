@@ -69,8 +69,8 @@ Led by **Databricks – Michael Johns & CARTO – Simon Wrigley**
 #### Room A – The Bryant  
 **Large Earth Observation Models in Action: Monitoring Land Use Change Nationally**  
 Led by **LGND AI – Noam Rosenthal**  
-<!-- - [Slides](PASTE-LINK-HERE) -->
-<!-- - [Worksheet](PASTE-LINK-HERE) -->
+- [Slides](https://docs.google.com/presentation/d/1PTyCzKHc2-aGdqDAZKlTU0zgeYPWc_1AIkU2q5UGq3w/edit?usp=sharing) 
+- [Interactive notebook](https://colab.research.google.com/github/EarthLegend/developer_resources/blob/main/demo/03-api-demo-october-2026/LGND_API_Demo_October_2026.ipynb) 
 
 #### Room B – The Astoria  
 **Real Estate Portfolio Screening Using CARTO and Cotality MCPs**  
