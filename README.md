@@ -28,8 +28,8 @@ Led by **CARTO – Julia González Reig**
 #### Room C – The Hudson  
 **911 Call Hotspot Detection in NYC**  
 Led by **CARTO – Chelsea Smith**  
-<!-- - [Slides](PASTE-LINK-HERE) -->
-<!-- - [Worksheet](PASTE-LINK-HERE) -->
+- [Slides](https://docs.google.com/presentation/d/1Zafnc3Z47RsFESMsP6ta4nA0-wgPpyCJi8EZ-vAKv9U/edit?usp=sharing)
+- [Worksheet](https://drive.google.com/drive/folders/1rDuRR2wdRwcKZEq6vY3wzHd7Lb7xoLRf?usp=sharing)
 
 ---
 
