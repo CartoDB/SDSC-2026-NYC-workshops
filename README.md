@@ -82,8 +82,8 @@ Led by **Cotality – Loren Helms & Eshan Prashar**
 #### Room C – The Hudson  
 **Boundless Demand, Bounded Earth: A 3D Look at Cities and Resources**  
 Led by **Bonny P. McClain**  
-<!-- - [Slides](PASTE-LINK-HERE) -->
-<!-- - [Worksheet](PASTE-LINK-HERE) -->
+<!-- - [QR GitHub Projects](https://drive.google.com/file/d/1T1opsbBgVOs6nattcHD2mGFMvtTQHYCE/view?usp=sharing) -->
+<!-- - [Worksheet](https://drive.google.com/file/d/1f-wPeCFxSQwyo1KN4btZYxptsEzoKR1k/view?usp=sharing) -->
 
 ---
 
