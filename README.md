@@ -43,8 +43,8 @@ Led by **CARTO – Chelsea Smith**
 #### Room A – The Bryant  
 **Spatial Intelligence for Insurance: From Risk and Exposure to Action**  
 Led by **Snowflake – Caleb Alexander & CARTO – Ryan Miller**  
-<!-- - [Slides](PASTE-LINK-HERE) -->
-<!-- - [Worksheet](PASTE-LINK-HERE) -->
+- [Slides](https://snowflake.enterprise.slack.com/files/U07N2E6JA4D/F0CA5SB61EC/sdsc-2026-spatial-intelligence-for-insurance.html)
+- [Workshop materials](https://github.com/sfc-gh-cadkins/sdsc-spatial-intelligence)
 
 #### Room B – The Astoria  
 **Vibecoding Custom Spatial Apps with CARTO for Agents**  
