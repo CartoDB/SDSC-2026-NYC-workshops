@@ -16,8 +16,8 @@ If you have trouble accessing any of the Google slides/docs, it may be that your
 #### Room A – The Bryant  
 **Agentic Film Location Scouting: Multi-Criteria Site Selection with CARTO**  
 Led by **CARTO – Kirsten Mickow**  
-<!-- - [Slides](PASTE-LINK-HERE) -->
-<!-- - [Worksheet](PASTE-LINK-HERE) -->
+- [Slides](https://docs.google.com/presentation/d/1iGQNAaUl1M8WiTXwFQd6nr9xd0i9cYgw/edit?usp=sharing)
+- [Workshop guide](https://k-mickow.github.io/sdsc26-film-scouting/)
 
 #### Room B – The Astoria  
 **Mapping NYC's Last-Mile Delivery Pressure**  
