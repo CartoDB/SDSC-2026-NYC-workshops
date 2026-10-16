@@ -76,8 +76,8 @@ Led by **LGND AI – Noam Rosenthal**
 #### Room B – The Astoria  
 **Real Estate Portfolio Screening Using CARTO and Cotality MCPs**  
 Led by **Cotality – Loren Helms & Eshan Prashar**  
-<!-- - [Slides](PASTE-LINK-HERE) -->
-<!-- - [Worksheet](PASTE-LINK-HERE) -->
+- [Slides](https://docs.google.com/presentation/d/1mrrGXXZ78MGKAVTqnOHDG9cuN03Bqj-L/edit?usp=sharing)
+- [Repo](https://github.com/eprashar-clgx/sdsc-2026-re-portfolio-screening)
 
 #### Room C – The Hudson  
 **Boundless Demand, Bounded Earth: A 3D Look at Cities and Resources**  
