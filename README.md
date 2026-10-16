@@ -22,8 +22,9 @@ Led by **CARTO – Kirsten Mickow**
 #### Room B – The Astoria  
 **Mapping NYC's Last-Mile Delivery Pressure**  
 Led by **CARTO – Julia González Reig**  
-<!-- - [Slides](PASTE-LINK-HERE) -->
-<!-- - [Worksheet](PASTE-LINK-HERE) -->
+- [Slides](https://docs.google.com/presentation/d/1LM0IauPbN5yclqpEdSu9ru5cwR5nP5aQltWBqvNic5g/edit?usp=sharing)
+- [Repo](https://github.com/juliagreig/sdsc26-last-mile-workshop)
+- [Workshop guide](https://juliagreig.github.io/sdsc26-last-mile-workshop/)
 
 #### Room C – The Hudson  
 **911 Call Hotspot Detection in NYC**  
