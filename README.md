@@ -110,6 +110,7 @@ Led by **Google Maps Platform – Valeriya Shin & CARTO – Ryan Miller**
 **An Agentic Approach to Network Risk Management with Oracle and CARTO**  
 Led by **Oracle – David Lapp & CARTO – Simon Wrigley**  
 - [Slides](https://drive.google.com/file/d/1FcX_0Y8E5_piy9LyO6CRiFux8FKoSBUD/view?usp=sharing)
+- [Workshop guide](https://freesql.com/library/tutorials/basic-of-linear-refencing-system-lrs-GNHOkq?share_key=LazoKufITO)
 
 ---
 
