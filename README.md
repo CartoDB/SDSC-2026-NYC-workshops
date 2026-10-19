@@ -18,6 +18,8 @@ If you have trouble accessing any of the Google slides/docs, it may be that your
 Led by **CARTO – Kirsten Mickow**  
 - [Slides](https://docs.google.com/presentation/d/1iGQNAaUl1M8WiTXwFQd6nr9xd0i9cYgw/edit?usp=sharing)
 - [Workshop guide](https://k-mickow.github.io/sdsc26-film-scouting/)
+- [Repo](https://github.com/k-mickow/sdsc26-film-scouting)
+
 
 #### Room B – The Astoria  
 **Mapping NYC's Last-Mile Delivery Pressure**  
